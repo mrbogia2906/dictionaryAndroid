@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="et_word"> Enter word </string>
+    <string name="lv_bookmarks" />
+    <string name="tv_meaning" />
+    <string name="btn_bookmark" />
+    <string name="btn_translate" />
+    <string name="btn_view_bookmarks" />
+    <string name="tv_Html" type="id" />
+    <string name="tv_Pronounce" type="id" />
+    <string name="star_indicator" />
+    <string-array name="translation_directions">
+        <item>Từ điển Anh Việt</item>
+        <item>Từ điển Việt Anh</item>
+    </string-array>
+    <string name="btn_pronounce" />
+    <string name="btn_offline_lookup" />
+    <string name="btn_online_lookup" />
+    <string name="spinner_source_language" />
+    <string name="spinner_target_language" />
+    <string name="title_bookmarks"> Bookmark </string>
+    <string name="title_online_dictionary"> Online </string>
+    <string name="title_dictionary" > Dictionary </string>
+    <string-array name="language_names">
+        <item>To</item>
+        <item>English</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Vietnamese</item>
+    </string-array>
+
+    <string-array name="language_codes">
+        <item>en</item>
+        <item>vi</item>
+        <item>fr</item>
+        <item>ja</item>
+    </string-array>
+
+
+
+</resources>
